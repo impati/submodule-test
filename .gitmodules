@@ -1,0 +1,4 @@
+[submodule "keyfile"]
+	path = keyfile
+	url = git@github.com:impati/keyfile.git
+	branch = main
